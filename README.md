@@ -1,6 +1,8 @@
 # employee-register
 Employee register 
 
+Test 
+
 PHP Framework used - Codeigniter
 
 CSS framework used - Bootstrap
