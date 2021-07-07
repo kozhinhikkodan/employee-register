@@ -1,7 +1,7 @@
 # employee-register
 Employee register 
 
-Test 
+***Interview Test Purpose***
 
 PHP Framework used - Codeigniter
 
